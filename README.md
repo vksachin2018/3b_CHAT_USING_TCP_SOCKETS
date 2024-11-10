@@ -1,4 +1,7 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+### DATE: 30/09/2024
+### NAME: GOKUL SACHIN K
+### REGISTER NO: 212223220025
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
